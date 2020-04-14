@@ -14,5 +14,4 @@ steps:
     inputs:
       command: 'pack'
       packagesToPack: '**/*.csproj'
-      nobuild: true
       versioningScheme: 'off'
