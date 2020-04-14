@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpdesk Management Core", "Helpdesk Management Core\Helpdesk Management Core.csproj", "{431B58AB-4361-409F-889B-BA7055878548}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Issue Resolver", "Helpdesk Issue Resolver\Issue Resolver.csproj", "{E59B9A90-96A3-45F5-B614-900E38C5E387}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Issue", "Issue\Issue.csproj", "{94D52F1C-174E-440F-85FC-410FF668D641}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{431B58AB-4361-409F-889B-BA7055878548}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{431B58AB-4361-409F-889B-BA7055878548}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{431B58AB-4361-409F-889B-BA7055878548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E59B9A90-96A3-45F5-B614-900E38C5E387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E59B9A90-96A3-45F5-B614-900E38C5E387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E59B9A90-96A3-45F5-B614-900E38C5E387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E59B9A90-96A3-45F5-B614-900E38C5E387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94D52F1C-174E-440F-85FC-410FF668D641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D52F1C-174E-440F-85FC-410FF668D641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D52F1C-174E-440F-85FC-410FF668D641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D52F1C-174E-440F-85FC-410FF668D641}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
